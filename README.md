@@ -17,7 +17,7 @@ Software Developer • DSA • Full-Stack Development • Python • SQL • Dat
 
 ## 👨‍💻 About Me
 
-* 🎓 BCA student focused on **Software Development and Data Analytics**
+* **Software Development and Data Analytics**
 * 💻 Currently building my skills in **DSA and Full-Stack Web Development**
 * 🐍 Working with **Python, SQL and Data Analysis**
 * ☕ Practicing **Java and DSA** for problem solving and technical interviews
