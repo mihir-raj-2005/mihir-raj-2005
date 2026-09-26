@@ -1,29 +1,162 @@
 <h1 align="center">Hi 👋, I'm Mihir Raj</h1>
-<h3 align="center">Software Developer | DSA • Full-Stack Development • Python • SQL • Data Analytics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir-raj-2005&label=Profile%20views&color=0e75b6&style=flat" alt="mihir-raj-2005" /> </p>
+<h3 align="center">
+Software Developer • DSA • Full-Stack Development • Python • SQL • Data Analytics
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihir-raj-2005" alt="mihir-raj-2005" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mihirsays_05" target="blank"><img src="https://img.shields.io/twitter/follow/mihirsays_05?logo=twitter&style=for-the-badge" alt="mihirsays_05" /></a> </p>
-
-- 🌱 I’m currently learning **full stack web development, DSA**
-
-- 💬 Ask me about **full stack dev**
-
-- 📫 How to reach me **mg3527730@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mihirsays_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mihirsays_05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mihir raj 2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihir raj 2005" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/mihir-raj-2005">
+    <img src="https://komarev.com/ghpvc/?username=mihir-raj-2005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/mihir-raj-2005?tab=followers">
+    <img src="https://img.shields.io/github/followers/mihir-raj-2005?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihir-raj-2005&show_icons=true&locale=en&layout=compact" alt="mihir-raj-2005" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir-raj-2005&show_icons=true&locale=en" alt="mihir-raj-2005" /></p>
+* **Software Development and Data Analytics**
+* 💻 Currently building skills in **DSA and Full-Stack Web Development**
+* 🐍 Working with **Python, SQL and data analysis**
+* ☕ Practicing **Java and DSA** for problem solving and technical interviews
+* 📊 Interested in turning data into **useful insights and real-world solutions**
+* 🚀 Building projects to strengthen my development, problem-solving and analytical skills
+* 📫 Reach me at **[mg3527730@gmail.com](mailto:mg3527730@gmail.com)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-raj-2005&" alt="mihir-raj-2005" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,sql" />
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,bootstrap,tailwind" />
+</p>
+
+### 📊 Data & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+### 🗄️ Databases & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+> More projects are currently being built. These will be replaced with my strongest projects as they are completed.
+
+### 📊 E-Commerce Customer Satisfaction Analytics
+
+**Python • Pandas • SQL • LLM-based Sentiment Analysis • Power BI**
+
+Analyzing e-commerce data to identify factors behind customer dissatisfaction and negative reviews, with a focus on delivery, seller, product and review-related issues.
+
+🔗 **Repository:** Coming soon
+
+---
+
+### 📩 SMS Spam Classification
+
+**Python • Pandas • Scikit-learn • Machine Learning**
+
+A machine learning project that classifies SMS messages as **Spam or Ham** using text preprocessing and classification techniques.
+
+🔗 **Repository:** Coming soon
+
+---
+
+### 🌐 Full-Stack Web Application
+
+**HTML • CSS • JavaScript • React • Node.js • Express • Database**
+
+A full-stack application focused on solving a practical real-world problem through a responsive frontend and backend architecture.
+
+🔗 **Repository:** Coming soon
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mihir-raj-2005&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-raj-2005&layout=compact&hide_border=true&langs_count=8" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mihir-raj-2005&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/mihir-raj-2005">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihir-raj-2005&hide_border=true&area=true" alt="Mihir's GitHub Activity Graph"/>
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mihir-raj-2005&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📌 GitHub Profile Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/repos/mihir-raj-2005?style=for-the-badge&label=Public%20Repositories"/>
+  <img src="https://img.shields.io/github/stars/mihir-raj-2005?style=for-the-badge&label=Stars"/>
+  <img src="https://img.shields.io/github/followers/mihir-raj-2005?style=for-the-badge&label=Followers"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:mg3527730@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mihir-raj-2005/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mihir-raj-2005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 Building projects. Solving problems. Learning every day.</i>
+</p>
